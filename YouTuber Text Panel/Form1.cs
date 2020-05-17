@@ -1,4 +1,5 @@
-﻿using System;
+//code by Eng-Mustafa Jawad © 2017 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,8 +17,6 @@ namespace YouTuber_Text_Panel
         {
             InitializeComponent();
         }
-
-       
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
@@ -40,8 +39,7 @@ namespace YouTuber_Text_Panel
             panel1.Visible = false;
         }
 
-        
-
+      
         private void button1_Click(object sender, EventArgs e)
         {
             colorDialog1.ShowDialog();
@@ -62,7 +60,6 @@ namespace YouTuber_Text_Panel
         }
 
         
-
         private void pictureBox10_Click(object sender, EventArgs e)
         {
             Pa_about.Visible = false;
@@ -141,22 +138,22 @@ namespace YouTuber_Text_Panel
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-             System.Diagnostics.Process.Start("www.youtube.com/");
+             System.Diagnostics.Process.Start("https://www.youtube.com/channel/UCUVVQuZDggQ49cEYOtlto8A");
              notifyIcon1.Icon = this.Icon;
              notifyIcon1.BalloonTipIcon = ToolTipIcon.Info ;
-             notifyIcon1.BalloonTipText = "Please Description our channel and share it with your friends ! , We need your support. ";
-             notifyIcon1.BalloonTipTitle = "NEED WiF Software";
+             notifyIcon1.BalloonTipText = "Please Description our channel and share it with your friends ! ,  ";
+             notifyIcon1.BalloonTipTitle = "Mental Software";
              notifyIcon1.ShowBalloonTip(20);
 
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("www.facebook.com/WifSoftware");
+            System.Diagnostics.Process.Start("www.facebook.com/dev.mental20");
             notifyIcon1.Icon = this.Icon;
             notifyIcon1.BalloonTipIcon = ToolTipIcon.Info;
-            notifyIcon1.BalloonTipText = "Please dont't forget like our page ! , we need your support . ";
-            notifyIcon1.BalloonTipTitle = "NEED WiF Software";
+            notifyIcon1.BalloonTipText = "Please dont't forget like our page ! ";
+            notifyIcon1.BalloonTipTitle = "Mental Software";
             notifyIcon1.ShowBalloonTip(20);
         }
 
@@ -182,12 +179,6 @@ namespace YouTuber_Text_Panel
                     label32.ForeColor = Color.OrangeRed;
 
                 }
-          
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-           
         }
 
         private void label34_Click(object sender, EventArgs e)
@@ -199,9 +190,6 @@ namespace YouTuber_Text_Panel
         {
             textBox1.RightToLeft = RightToLeft.No;
         }
-
-       
-
         
     }
 }
