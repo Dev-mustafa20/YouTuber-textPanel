@@ -1,0 +1,9 @@
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\bin\Debug\YouTuber Text Panel.exe.config
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\bin\Debug\YouTuber Text Panel.exe
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\bin\Debug\YouTuber Text Panel.pdb
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\obj\Debug\YouTuber Text Panel.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\obj\Debug\YouTuber_Text_Panel.Form1.resources
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\obj\Debug\YouTuber_Text_Panel.Properties.Resources.resources
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\obj\Debug\YouTuber Text Panel.csproj.GenerateResource.Cache
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\obj\Debug\YouTuber Text Panel.exe
+C:\Users\Mustafa Jawad\Desktop\YouTuber Text Panel\YouTuber Text Panel\obj\Debug\YouTuber Text Panel.pdb
